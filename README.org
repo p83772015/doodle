@@ -1,9 +1,8 @@
-** Project Proposal
+** Doodle
 
-** Title
-Note Taking App (Doodle)
+Your no-nonsense note taking app.
 
-** Project Explanation (How it works)
+** How it works?
 
 # - Easy access
 # - All eggs in one basket
