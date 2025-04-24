@@ -1,0 +1,26 @@
+** Project Proposal
+
+** Title
+Note Taking App (Doodle)
+
+** Project Explanation (How it works)
+
+# - Easy access
+# - All eggs in one basket
+# - Reliable
+
+Doodle is an easy-access, reliable note taking web app where you can store notes about virtually anything.  Avoid losing your thoughts and ideas by with our single-click feature where you can pick either to store a written note or a photo.
+
+Our web app presents you with a very simple interface consisting of only a deck of notes in chronological order and a button in which you can click to add a new note.  Let your notes breath with our minimalist interface focusing only on your intent and let yourself free from distractions and get things done!
+
+** Importance
+
+Whether you're a student, a teacher, a chef, or an auto mechanic, Doodle  is virtually just about for everybody who like to get things done and organize their life.  Doodle brings order to anything that you do.  Having organization and order in one's life is just about as important as any of your major events in your life.
+
+** Diagram
+
+
+** Costing
+100--200 PhP
+
+** 
