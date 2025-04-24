@@ -18,6 +18,7 @@ Whether you're a student, a teacher, a chef, or an auto mechanic, Doodle  is vir
 
 ** Diagram
 
+[[./illustration.png]]
 
 ** Costing
 100--200 PhP
